@@ -8,13 +8,13 @@ Original file is located at
 
 # IMPORTAÇÃO DE BIBLIOTECAS
 """
-import streamlit as st
-import numpy as np 
-import pandas as pd 
-import seaborn as sns
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import matplotlib.pylab as pylab
+ streamlit as st
+ numpy as np 
+pandas as pd 
+ seaborn as sns
+ matplotlib as mpl
+ matplotlib.pyplot as plt
+ matplotlib.pylab as pylab
 from catboost import CatBoostRegressor
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.model_selection import train_test_split
