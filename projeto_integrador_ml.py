@@ -12,25 +12,25 @@ import streamlit as st
 # !pip install catboost
 import numpy as np 
 import pandas as pd 
-import seaborn as sns
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import matplotlib.pylab as pylab
-from catboost import CatBoostRegressor
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.datasets import make_regression
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.pipeline import Pipeline
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import LinearRegression
-from xgboost import XGBRegressor
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import mean_squared_error
-from sklearn import metrics
+# import seaborn as sns
+# import matplotlib as mpl
+# import matplotlib.pyplot as plt
+# import matplotlib.pylab as pylab
+# from catboost import CatBoostRegressor
+# from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+# from sklearn.model_selection import train_test_split
+# from sklearn.datasets import make_regression
+# from sklearn.preprocessing import StandardScaler
+# from sklearn.decomposition import PCA
+# from sklearn.pipeline import Pipeline
+# from sklearn.tree import DecisionTreeRegressor
+# from sklearn.ensemble import RandomForestRegressor
+# from sklearn.linear_model import LinearRegression
+# from xgboost import XGBRegressor
+# from sklearn.neighbors import KNeighborsRegressor
+# from sklearn.model_selection import cross_val_score
+# from sklearn.metrics import mean_squared_error
+# from sklearn import metrics
 
 """# IMPORTAÇÃO DO DATASET"""
 
