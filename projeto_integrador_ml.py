@@ -9,7 +9,7 @@ Original file is located at
 # IMPORTAÇÃO DE BIBLIOTECAS
 """
 
-!pip install catboost
+pip install catboost
 import numpy as np 
 import pandas as pd 
 import seaborn as sns
